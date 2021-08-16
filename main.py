@@ -17,7 +17,6 @@ class MadLibsGen:
         print(_myLib)
 
 
-# Press the green button in the gutter to run the script.
 if __name__ == '__main__':
     my_lib = MadLibsGen()
     my_lib.get_answers()
